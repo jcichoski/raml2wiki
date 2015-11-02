@@ -40,8 +40,10 @@ raml2txt -t custom-template.handlebars -r custom-resource.handlebars -m custom-i
 ![Start of Wiki Page](https://raw.github.com/jhitchcock/raml2wiki/master/wikiExample1.png)
 
 ### Example Endpoint Section
-![Example Endpoint](https://raw.github.com/jcichoski/raml2wiki/master/Raml2Wiki_BetterNav.png)
-<!-- https://raw.github.com/jhitchcock/raml2wiki/master/Raml2Wiki_BetterNav.png -->
+![Example Endpoint](https://raw.github.com/jcichoski/raml2wiki/master/WikiExample_ResourceDropDown.png)
+<!-- this path will need to be changed, it is set to an image that is currently only in my repository -->
+<!-- change path to: -->
+<!-- https://raw.github.com/jhitchcock/raml2wiki/master/WikiExample_ResourceDropDown.png -->
 
 This script uses the parsing method and raml2obj script by Kevin Renskers 
 (https://github.com/kevinrenskers/raml2obj)
