@@ -40,7 +40,7 @@ raml2txt -t custom-template.handlebars -r custom-resource.handlebars -m custom-i
 ![Start of Wiki Page](https://raw.github.com/jhitchcock/raml2wiki/master/wikiExample1.png)
 
 ### Example Endpoint Section
-![Example Endpoint](https://raw.github.com/jhitchcock/raml2wiki/master/wikiExample2.png)
+![Example Endpoint](https://raw.github.com/jhitchcock/raml2wiki/master/Raml2Wiki_BetterNav.png)
 
 
 This script uses the parsing method and raml2obj script by Kevin Renskers 
